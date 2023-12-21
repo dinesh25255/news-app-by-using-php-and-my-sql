@@ -17,7 +17,7 @@ This project aims to develop a computerized and easy to access the day-to-day ne
 ```
 Admin login details: 
 email - admin@admin.com
-password - Admin123
+
 ```
 
 #### [View Screenshots](https://github.com/Anish-U/NewsGrid#project-screenshots)
